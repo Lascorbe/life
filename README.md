@@ -1,7 +1,7 @@
 life
 ====
 
-As a big fan of Orta, I'll be openning [issues](https://github.com/lascorbe/life/issues) with all the stuff I want to accomplish as well :smile:
+As a big fan of [Orta](https://github.com/orta), I'll be openning [issues](https://github.com/lascorbe/life/issues) with all the stuff I want to accomplish as well :smile:
 
 Hoping this will help me to remember in the future things I've done.
 
